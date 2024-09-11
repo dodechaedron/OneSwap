@@ -37,6 +37,11 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
     href: '/launchpads',
   },
   {
+    label: t('Ifo'),
+    icon: 'LaunchpadIcon',
+    href: '/ifo',
+  },
+  {
     label: t('Airdrop'),
     icon: 'AirdropIcon',
     href: '/airdrop',

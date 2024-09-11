@@ -59,7 +59,7 @@ const Menu = (props) => {
       setLang={setLanguage}
       cakePriceUsd={cakePriceUsd.toNumber()}
       links={config(t)}
-      tagline={t('Your best investment in Digital Asset')}
+      tagline={t('Your best investment in Digital Asset MemeSwap')}
       bannerSources={bannerSources}
       showMascott={showMascott}
       showBgDecoration={showBgDecoration}
